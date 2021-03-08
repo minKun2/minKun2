@@ -4,9 +4,9 @@
 
 ### Minjae, Kim ( Kun2 )
 
-:school: 덕소고등학교 ( 2014. 02 )
-:school: 인덕대학교   ( 2018. 02 )
-:office: Safe:re 운영개발팀원 ( 2021.02 ~ 현재 )
+- :school: 덕소고등학교 ( 2014. 02 )
+- :school: 인덕대학교   ( 2018. 02 )
+- :office: Safe:re 운영개발팀원 ( 2021.02 ~ 현재 )
 
 ### 🔭 기술스택
 <p align="left">  
@@ -30,17 +30,3 @@
 </a> 
 </p>
     <br/>
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
