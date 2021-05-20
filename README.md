@@ -28,8 +28,5 @@
   <a href="https://git-scm.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
 </a> 
-  <a href="https://git-scm.com/" target="_blank">
-<img src="Users/user/Downloads/amazonaws.svg" alt="git width="30" height"30"/>
-                                                                            </a>
 </p>
     <br/>
