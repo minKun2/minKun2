@@ -31,5 +31,8 @@
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/amazon/amazon-tile.svg" alt="asw" width="30" height="30"/>
   </a>
+  <a href="https://spring.io/tools" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="sts" width="30" height="30"/>
+  </a>
 </p>
     <br/>
