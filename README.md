@@ -7,9 +7,10 @@
 - :school: 덕소고등학교 ( 2014. 02 )
 - :school: 인덕대학교   ( 2018. 02 )
 - 🏫 학점은행제 ( 2022.02 )
+- 🏫 건국대학교 정보통신대학원 융합정보기술학과 인공지능 전공 (2023.09 ~ )
 - :office: Safe:re 운영개발팀원 ( 2021.02 ~ 2021.08 )
-- :office: EFFINO 교육매니저 및 프론트엔드 개발팀원 ( 2021.09 ~ 현재 )
-
+- :office: EFFINO 교육매니저 및 프론트엔드 개발팀원 ( 2021.09 ~ 2022.04 )
+- 🏢 : 롯데마트GO 프론트엔드 개발팀원(2022.04 ~ 현재)
 ### 🔭 기술스택
 <p align="left">  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
